@@ -6,5 +6,4 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-sqlalchemy
 psycopg2-binary
